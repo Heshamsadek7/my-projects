@@ -1,0 +1,192 @@
+,Month,Date,Day,Company_Name,Executive_Supervisor,Type of Work,Permit Position,Hour_in,Hour_out,Location,Total Hours,Safety Supervisor
+0,,2025-01-07,,Administrative Affairs,محمود عويس,صيانة مبرد مياه الشرب ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Printing Presses,3.0,Karim Magdy
+1,,2025-02-07,,Administrative Affairs,محمود عويس,صيانة مبرد مياه الشرب ,تم العمل,2025-09-13 10:00:00,2025-09-13 13:00:00,Printing Presses,3.0,Karim Magdy
+2,,2025-02-07,,Al-Huda Company,ايمن محمد كامل ,صيانة تانك الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+3,,2025-02-07,,Al-Amal for Installation Company,رامى محمد ,صيانة ابواب الوميتال المبنى الاداري,تم العمل,2025-09-13 15:00:00,2025-09-13 16:00:00,Printing Presses,1.0,Karim Magdy
+4,,2025-03-07,,Al-Huda Company,ايمن محمد كامل ,صيانة تانك الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+5,,2025-04-07,,Engineering Sector,مصطفى نصار  ,لحام سيور بخط الكولبس ,تم العمل,2025-09-13 10:00:00,2025-09-13 11:00:00,Printing Presses,1.0,Ali Salah
+6,,2025-05-07,,Orion Company,يحيى طه ,تركيبات ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:30:00,Tower,3.5,Mohamed Abdel Aal
+7,,2025-06-07,,External Contractor,عبدالرحمن احمد,رفع وتثبيت تشيلر اعلى ويب 3,تم العمل,2025-09-13 11:00:00,2025-09-13 13:00:00,Printing Presses,2.0,Mohamed El-Sayed
+8,,2025-06-07,,German Company,كامل جمعة  ,مكافحة قوارض وحشرات,تم العمل,2025-09-13 11:00:00,2025-09-13 13:00:00,Printing Presses,2.0,Ahmed Saad
+9,,2025-06-07,,Administrative Affairs,مصطفى رشاد  ,ترميم حائط غرفة السيرفر,تم العمل,2025-09-13 12:00:00,2025-09-13 16:00:00,Printing Presses,4.0,Ahmed Morsy
+10,,2025-06-07,,Al-Huda Company,ايمن محمد كامل ,صيانة تانك الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+11,,2025-07-07,,Schlender Company,ملخص  كامل   , صيانة المصاعد ,تم العمل,2025-09-13 12:00:00,2025-09-13 16:00:00,New Warehouse,4.0,Mohamed Moussa
+12,,2025-07-07,,Administrative Affairs,مصطفى رشاد  ,ترميم حائط غرفة السيرفر,تم العمل,2025-09-13 10:00:00,2025-09-13 14:00:00,Printing Presses,4.0,Ahmed Morsy
+13,,2025-07-07,,Administrative Affairs,محدى كرم ,لحام جنشات  فى كمر السقف ,تم العمل,2025-09-13 16:30:00,2025-09-13 18:00:00,Faggala,1.5,Hany Lotfy
+14,,2025-07-07,,Administrative Affairs,محمد سعيد ,تركيب مراوح سقف ,تم العمل,2025-09-13 06:00:00,2025-09-13 14:00:00,Faggala,8.0,Hany Lotfy
+15,,2025-08-07,,Administrative Affairs,مصطفى رشاد,عمل نقاشة وترميم للحائط ,تم العمل,2025-09-13 12:30:00,2025-09-13 16:00:00,Printing Presses,3.5,Ahmed Morsy
+16,,2025-08-07,,Al-Amal for Installation Company,رامى محمد ,صيانة ابواب مكتب الحركة ,تم العمل,2025-09-13 15:30:00,2025-09-13 17:00:00,Printing Presses,1.5,Ahmed Morsy
+17,,2025-08-07,,Administrative Affairs,محمود الدروى ,صيانة تكييف غرفة السيرفر,تم العمل,2025-09-13 11:30:00,2025-09-13 17:00:00,Printing Presses,5.5,Ahmed Morsy
+18,,2025-09-07,,Administrative Affairs,ممدوح محمد ,صيانة ادوات الاوراق  ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Faggala,3.0,Hany Lotfy
+19,,2025-09-07,,Administrative Affairs,مصطفى محمود  ,تغيير بطارية عداد المياه الديجتال ,تم العمل,2025-09-13 11:30:00,2025-09-13 12:30:00,Printing Presses,1.0,Ali Salah
+20,,2025-09-07,,Al-Huda Company,ايمن محمد كامل ,لحام تنكات الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+21,,2025-09-07,,One Connect Company,سيد عادل  ,صيانة دورية,تم العمل,2025-09-13 12:00:00,2025-09-13 15:30:00,Tower,3.5,Mohamed Abdel Aal
+22,,2025-09-07,,Administrative Affairs,مصطفى رشاد  ,دهان سلم المبنى الادارى ,تم العمل,2025-09-13 12:00:00,2025-09-13 16:00:00,Printing Presses,4.0,Ahmed Morsy
+23,,2025-09-07,,Al-Huda Company,اسلام مصطفى  ,عمل صيانة  ماكينة CTB,تم العمل,2025-09-13 16:00:00,2025-09-13 17:00:00,Printing Presses,1.0,Karim Magdy
+24,,2025-09-07,,Warehouse Management,على اشرف ,معايرة الموازين ,تم العمل,2025-09-13 16:00:00,2025-09-13 17:00:00,New Warehouse,1.0,Mohamed Moussa
+25,,2025-10-07,,Al-Darawy Company,محمود عويس,صيانة التكيفات ,تم العمل,2025-09-13 10:00:00,2025-09-13 16:00:00,Printing Presses,6.0,Ali Salah
+26,,2025-10-07,,Square Company,كريم محممود   ,عزل حوائط ,تم العمل,2025-09-13 05:00:00,2025-09-13 14:00:00,Tower,9.0,Mohamed Abdel Aal
+27,,2025-10-07,,Administrative Affairs,عبد الله محمد ,تغيير حبارات ,تم العمل,2025-09-13 10:00:00,2025-09-13 10:30:00,Printing Presses,0.5,Mohamed El-Sayed
+28,,2025-10-07,,Al-Huda Company,ايمن محمد كامل ,لحام تنكات الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Ahmed Bakry
+29,,2025-10-07,,Administrative Affairs,محمود عويس,صيانة تكييف غرفة السيرفر ,تم العمل,2025-09-13 15:30:00,2025-09-13 17:00:00,Printing Presses,1.5,Ahmed Morsy
+30,,2025-12-07,,Engineering Sector,سيد على ,صيانة كلارك ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,New Warehouse,5.0,Mohamed Moussa
+31,,2025-12-07,,Square Company,كريم محممود   ,عزل حوائط ,تم العمل,2025-09-13 11:00:00,2025-09-13 19:00:00,Tower,8.0,Mohamed Abdel Aal
+32,,2025-12-07,,Al-Huda Company,محسن عبد الباسط  ,لحام تنكات الاحبار,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Mahmoud Mostafa
+33,,,,Al-Huda Company,اسلام مصطفى  ,عمل صيانة  ماكينة CTB,تم العمل,2025-09-13 13:00:00,2025-09-13 17:00:00,Printing Presses,4.0,Alaa Antar
+34,,,,Al-Bakry Company,احمد محمد   ,صيانة ,تم العمل,2025-09-13 13:15:00,2025-09-13 14:00:00,Tower,0.8,Mohamed Abdel Aal
+35,,,,German Company,محمد احمد ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Printing Presses,5.0,Mohamed El-Sayed
+36,,,,German Company,محمد احمد ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 13:00:00,2025-09-13 14:00:00,New Warehouse,1.0,Mohamed Moussa
+37,,,,Administrative Affairs,محمود عويس,صيانة تكييف ,تم العمل,2025-09-13 12:00:00,2025-09-13 14:00:00,New Warehouse,2.0,Mohamed Moussa
+38,,,,Administrative Affairs,احمد سيد,صيانة أدوات ادارية ,تم العمل,2025-09-13 13:00:00,2025-09-13 14:30:00,Faggala,1.5,Hany Lotfy
+39,,,,Al-Farag Company,فرج محمد ,تركيب فراشة بالشوارع الخارجية ,تم العمل,2025-09-13 10:30:00,2025-09-13 17:00:00,Old Warehouse,6.5,Karim Magdy
+40,,,,Administrative Affairs,محمد النقيب ,اعمال الكهرباء ,تم العمل,2025-09-13 10:30:00,2025-09-13 17:00:00,Old Warehouse,6.5,Karim Magdy
+41,,,,Egyptian Company,علاء احمد ,صيانة ,تم العمل,2025-09-13 09:00:00,2025-09-13 10:00:00,Tower,1.0,Mohamed Abdel Aal
+42,,,,Al-Bakry Company,احمد محمد   ,صيانة ,تم العمل,2025-09-13 13:15:00,2025-09-13 14:00:00,Tower,0.8,Mohamed Abdel Aal
+43,,,,Al-Farag Company,فرج محمد ,تركيب فراشة بالشوارع الخارجية ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Karim Magdy
+44,,,,Administrative Affairs,اسلام السيد ,تغيير شمعات فلتر المياه,تم العمل,2025-09-13 12:00:00,2025-09-13 13:00:00,Printing Presses,1.0,Mahmoud Mostafa
+45,,,,Engineering Sector,صابر ابراهيم  ,اصلاح بوابة المخزن ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+46,,,,Administrative Affairs,محمود عويس,صيانة تكييف مخزن قطع الغيار ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Printing Presses,7.0,Alaa Antar
+47,,,,Al-Huda Company,ايمن محمد كامل ,لحام تنكات الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+48,,,,Al-Farag Company,فرج محمد ,عمل  فراشة باالمخزن  ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Mahmoud AbdelTawab
+49,,,,Administrative Affairs,اسلام السيد ,تغيير شمعات فلتر المياه,تم العمل,2025-09-13 13:30:00,2025-09-13 14:00:00,New Warehouse,0.5,Karim Magdy
+50,,,,Administrative Affairs,محمود عويس,صيانة تكييفات الادارى ,تم العمل,2025-09-13 11:00:00,2025-09-13 12:00:00,Old Warehouse,1.0,Mahmoud AbdelTawab
+51,,,,Administrative Affairs,محمود عويس,صيانة تكييف ,تم العمل,2025-09-13 10:00:00,2025-09-13 16:00:00,Printing Presses,6.0,Alaa Antar
+52,,,,Atlas Company,محمد عبد النبى  ,عمل صيانة الكمبروسر  رقم 1 ,تم العمل,2025-09-13 11:00:00,2025-09-13 11:30:00,Printing Presses,0.5,Karim Magdy
+53,,,,Engineering for Air Compressors,معروف محمد   ,عمل صيانة الكمبروسر  ,تم العمل,2025-09-13 12:15:00,2025-09-13 14:00:00,Printing Presses,1.8,Karim Magdy
+54,,,,German Company,محمد احمد ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 15:30:00,2025-09-13 17:00:00,Printing Presses,1.5,Karim Magdy
+55,,,,Al-Farag Company,فرج محمد ,استكمال  فراشة باالمخزن  ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Mahmoud AbdelTawab
+56,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 14:00:00,2025-09-13 16:00:00,Printing Presses,2.0,Karim Magdy
+57,,,,Al-Huda Company,ايمن محمد كامل ,لحام تسريب  الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+58,,,,Cairo Trade Company,السيد ابراهيم  ,صيانة دورية ,تم العمل,2025-09-13 10:30:00,2025-09-13 14:00:00,Tower,3.5,Mohamed Abdel Aal
+59,,,,Al-Farag Company,فرج محمد ,استكمال  فراشة باالمخزن  ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Mahmoud AbdelTawab
+60,,,,Al-Farag Company,فرج محمد ,عمل  فراشة باالمخزن  ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Mahmoud AbdelTawab
+61,,,,Al-Huda Company,ايمن محمد كامل ,عمل معالجة تسريب للاحبار ,تم العمل,2025-09-13 12:30:00,2025-09-13 17:00:00,Old Warehouse,4.5,Ahmed Bakry
+62,,,,Administrative Affairs,علاء احمد ,صيانةالتكييف فى المبنى الادارى ,تم العمل,2025-09-13 14:00:00,2025-09-13 15:00:00,Faggala,1.0,Hany Lotfy
+63,,,,Al-Dessouky Company,محمد دسوقى  ,لحام وتقطيع  ,تم العمل,2025-09-13 11:30:00,2025-09-13 17:00:00,Printing Presses,5.5,Ali Salah
+64,,,,German Company,محمد احمد   ,الزيارة الشهرية للمكافحة  الافات والقوارض,تم العمل,2025-09-13 14:00:00,2025-09-13 16:00:00,Printing Presses,2.0,Ahmed Bakry
+65,,,,Administrative Affairs,محمد النقيب ,صيانة فيشة الكهرباء ,تم العمل,2025-09-13 10:00:00,2025-09-13 11:00:00,Printing Presses,1.0,Mohamed Moussa
+66,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 13:00:00,2025-09-13 15:00:00,New Warehouse,2.0,Mohamed Moussa
+67,,,,Al-Farag Company,فرج محمد ,عمل  فراشة باالمخزن  ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Mahmoud AbdelTawab
+68,,,,Al-Huda Company,ايمن محمد كامل ,لحام تسريب  الاحبار,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+69,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+70,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 12:00:00,2025-09-13 14:00:00,New Warehouse,2.0,Mohamed Moussa
+71,,,,Administrative Affairs,مجدى كرم ,صيانة أعمال سباكة  ,تم العمل,2025-09-13 17:00:00,2025-09-13 18:00:00,Faggala,1.0,Hany Lotfy
+72,,,,Engineering Sector,ابراهيم  عبد الحليم   ,صيانة كلارك ,تم العمل,2025-09-13 12:00:00,2025-09-13 13:00:00,New Warehouse,1.0,Mohamed Moussa
+73,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 13:00:00,2025-09-13 14:00:00,New Warehouse,1.0,Mohamed Moussa
+74,,,,Follow-up and Monitoring Management,احمد بدوى ,المرور على الكاميرات ,تم العمل,2025-09-13 12:00:00,2025-09-13 16:00:00,New Warehouse,4.0,Mohamed Moussa
+75,,,,Administrative Affairs,محمود الدروي,صيانةالتكييف فى استراحه المهندسين,تم العمل,2025-09-13 11:30:00,2025-09-13 14:00:00,Printing Presses,2.5,Ahmed Morsy
+76,,,,Al-Dessouky Company,محمد الدسوقى ,لحام وتجميع وصلات اللتشلر ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:30:00,Printing Presses,6.5,Ali Salah
+77,,,,Al-Huda Company,ايمن محمد كامل ,لحام تسريب  الاحبار,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+78,,,,Al-Dessouky Company,محمد الدسوقى ,لحام وتجميع وصلات اللتشلر ,تم العمل,2025-09-13 10:30:00,2025-09-13 17:30:00,Printing Presses,7.0,Ali Salah
+79,,,,Administrative Affairs,مجدى كرم ,صيانة أعمال سباكة  ,تم العمل,2025-09-13 17:00:00,2025-09-13 18:00:00,Faggala,1.0,Hany Lotfy
+80,,,,German Company,محمود ماهر  ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 11:00:00,2025-09-13 12:00:00,Faggala,1.0,Hany Lotfy
+81,,,,Engineering Sector,ابراهيم فتح الله,صيانةكلاركات ,تم العمل,2025-09-13 11:00:00,2025-09-13 15:00:00,New Warehouse,4.0,Mohamed Moussa
+82,,,,Administrative Affairs,محمود الدروي,صيانةالتكيفات ,تم العمل,2025-09-13 12:00:00,2025-09-13 15:00:00,New Warehouse,3.0,Mohamed Moussa
+83,,,,Schlender Company,محمد عادل  ,المرور الشهرية على الاسناسير ,تم العمل,2025-09-13 15:00:00,2025-09-13 16:00:00,New Warehouse,1.0,Mohamed Moussa
+84,,,,Al-Dessouky Company,محمد الدسوقى ,تركيب شيلر قسم ويب 3,تم العمل,2025-09-13 10:30:00,2025-09-13 17:30:00,Printing Presses,7.0,Mahmoud Mostafa
+85,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 10:00:00,2025-09-13 14:00:00,New Warehouse,4.0,Mohamed Moussa
+86,,,,Administrative Affairs,احمد سعيد ,اعمال سباكة ,تم العمل,2025-09-13 11:00:00,2025-09-13 14:00:00,New Warehouse,3.0,Mohamed Moussa
+87,,,,Al-Dessouky Company,محمد الدسوقى ,تركيب شيلر قسم ويب 3,تم العمل,2025-09-13 10:30:00,2025-09-13 16:30:00,Printing Presses,6.0,Ali Salah
+88,,,,German Company,كامل جمعة  ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 12:00:00,2025-09-13 14:00:00,Printing Presses,2.0,Ahmed Saad
+89,,,,Al-Dessouky Company,محمد الدسوقى ,لحام وتجميع وصلات اللتشلر ,تم العمل,2025-09-13 10:30:00,2025-09-13 17:00:00,Printing Presses,6.5,Ali Salah
+90,,,,Al-Huda Company,ايمن محمد كامل ,لحام تسريب  الاحبار,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+91,,,,German Company,ايمن كامل   ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+92,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 10:30:00,2025-09-13 14:00:00,Printing Presses,3.5,Ahmed Saad
+93,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 10:30:00,2025-09-13 14:00:00,New Warehouse,3.5,Mohamed Moussa
+94,,,,Administrative Affairs,محمود عويس,عمل صيانة تكييف ,تم العمل,2025-09-13 16:00:00,2025-09-13 17:00:00,Printing Presses,1.0,Karim Magdy
+95,,,,Administrative Affairs,أحمد حسين  ,الزيارة الشهرية لصيانة الاسانسير ,تم العمل,2025-09-13 15:00:00,2025-09-13 16:00:00,Faggala,1.0,Hany Lotfy
+96,,,,Engineering Sector,صابر ابراهيم ,اعمال لحام فى  سندرة بسح عنبر ويب 3 ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:30:00,Printing Presses,6.5,Ali Salah
+97,,,,Administrative Affairs,محمد النقيب ,تركيب كشاف بالكفتريا ,تم العمل,2025-09-13 10:00:00,2025-09-13 11:00:00,Printing Presses,1.0,Ahmed Saad
+98,,2025-01-08,,Warehouse Management,ابو المجد  ,اعمال صيانة لعربيات  الهيدورليك ,تم العمل,2025-09-13 14:30:00,2025-09-13 15:00:00,Faggala,0.500000000000001,Hany Lotfy
+99,,2025-02-08,,Administrative Affairs,محمد ابراهيم ,اعمال محارة ,تم العمل,2025-09-13 10:00:00,2025-09-13 16:00:00,Old Warehouse,6.0,Mohamed Moussa
+100,,2025-02-08,,Egyptian Company,محمود مرعى ,اعمال لحام  شبكة الاطفاء ,تم العمل,2025-09-13 11:00:00,2025-09-13 15:00:00,Tower,4.0,Mohamed Abdel Aal
+101,,2025-02-08,,Office Max,على فريد عبد الله ,تركيبات ,تم العمل,2025-09-13 15:00:00,2025-09-13 23:00:00,Tower,8.0,Mohamed Abdel Aal
+102,,2025-02-08,,Cairo Trade Company,السيد ابراهيم  ,صيانة دورية ,تم العمل,2025-09-13 11:00:00,2025-09-13 14:00:00,Tower,3.0,Mohamed Abdel Aal
+103,,2025-02-08,,Administrative Affairs,جمعة محمد ,صيانة كلارك ,تم العمل,2025-09-13 10:00:00,2025-09-13 11:00:00,Old Warehouse,0.999999999999999,Mohamed Moussa
+104,,2025-03-08,,Administrative Affairs,محمود عويس,عمل صيانة تكييف استراحة المهندسين الخزينة ,تم العمل,2025-09-13 13:00:00,2025-09-13 17:00:00,Printing Presses,4.0,Ahmed Morsy
+105,,2025-03-08,,Al-Huda Company,ايمن محمد كامل ,عمل لحام  تسريب للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+106,,2025-03-08,,Al-Dessouky Company,محمد الدسوقى ,اعمال تركيب الشلر,تم العمل,2025-09-13 12:30:00,2025-09-13 17:00:00,Printing Presses,4.5,Ahmed Morsy
+107,,2025-03-08,,Office Max,على فريد عبد الله ,تركيبات ,تم العمل,2025-09-13 10:00:00,2025-09-13 16:00:00,Tower,6.0,Mohamed Abdel Aal
+108,,2025-04-08,,Chemex Company,اسلام محمد ,عمل صيانة لوحدة السوفتير ,تم العمل,2025-09-13 11:30:00,2025-09-13 13:30:00,Printing Presses,2.0,Ali Salah
+109,,2025-04-08,,German Company,محمد ماهر    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 12:00:00,2025-09-13 14:00:00,Printing Presses,2.0,Ali Salah
+110,,2025-04-08,,GM Company,نادر اسكندر ,اعمال لحام لتجهيز  شبكة اطفاء تلقائى ,تم العمل,2025-09-13 12:30:00,2025-09-13 17:00:00,Deutsch,4.5,Ahmed Morsy
+111,,2025-04-08,,German Company,محمد ماهر    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 14:00:00,2025-09-13 15:00:00,New Warehouse,0.999999999999999,Karim Magdy
+112,,2025-04-08,,German Company,محمد ماهر    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Old Warehouse,2.0,Mahmoud AbdelTawab
+113,,2025-04-08,,Al-Huda Company,ايمن محمد كامل ,عمل لحام  تسريب للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+114,,2025-05-08,,German Company,محمد ماهر    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 13:00:00,2025-09-13 17:00:00,Faggala,4.0,Hany Lotfy
+115,,2025-05-08,,Administrative Affairs,محمود عويس,عمل صيانة صيانة لوحدات التكييف بالمطبعة,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Printing Presses,7.0,Ali Salah
+116,,2025-05-08,,Administrative Affairs,ادم محمد ,عمل انشائات معمارية ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+117,,2025-05-08,,Egyptian Company,علاء احمد ,صيانة,تم العمل,2025-09-13 11:00:00,2025-09-13 13:00:00,Tower,2.0,Mohamed Abdel Aal
+118,,2025-05-08,,Al-Huda Company,ايمن محمد كامل ,عمل لحام  تسريب للاحبار ,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Old Warehouse,2.0,Mahmoud AbdelTawab
+119,,2025-06-08,,Administrative Affairs,محمود عويس,عمل صيانة تكييف استراحة المهندسين,تم العمل,2025-09-13 12:30:00,2025-09-13 13:30:00,Printing Presses,0.999999999999999,Ahmed Morsy
+120,,2025-06-08,,Al-Amal for Installation Company,رامى محمد ,صيانة ابواب الالمونتال,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Printing Presses,2.0,Ahmed Morsy
+121,,2025-07-08,,KUC Company,كمال احمد  ,تركيبات ,تم العمل,2025-09-13 17:00:00,2025-09-13 20:00:00,Tower,3.0,Mohamed Abdel Aal
+122,,2025-07-08,,Office Max,على فريد عبد الله ,تركيبات ,تم العمل,2025-09-13 16:45:00,2025-09-13 22:00:00,Tower,5.25,Mohamed Abdel Aal
+123,,2025-07-08,,Al-Amal for Installation Company,رامى محمد ,صيانة ابواب الالمونتال,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Printing Presses,2.0,Mohamed Moussa
+124,,2025-07-08,,Al-Bakry Company,احمد محمد ,تركيبات ,تم العمل,2025-09-13 12:00:00,2025-09-13 18:00:00,Tower,6.0,Mohamed Abdel Aal
+125,,2025-07-08,,Administrative Affairs,محمود عويس,عمل صيانة تكييف للطبع شيت ,تم العمل,2025-09-13 11:00:00,2025-09-13 12:00:00,Printing Presses,1.0,Karim Magdy
+126,,2025-09-08,,GM Company,نادر اسكندر ,اعمال لحام لتجهيز  شبكة اطفاء تلقائى ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Deutsch,7.0,Karim Magdy
+127,,2025-09-08,,Four Tech Company,محمد احمد ,تركيبات ,تم العمل,2025-09-13 10:00:00,2025-09-13 20:00:00,Tower,10.0,Mohamed Abdel Aal
+128,,2025-10-08,,Al-Karim Company,حامد عطوان,الزيارة الشهرية  على نقاط الاطفاء وصناديق الحريق ,تم العمل,2025-09-13 12:00:00,2025-09-13 15:00:00,Printing Presses,3.0,Alaa Antar
+129,,2025-10-08,,Administrative Affairs,احمد سعيد  ,صيانة الماتور ,تم العمل,2025-09-13 13:00:00,2025-09-13 15:00:00,New Warehouse,2.0,Mohamed Moussa
+130,,2025-10-08,,Al-Karim Company,حامد عطوان,الزيارة الشهرية  على نقاط الاطفاء وصناديق الحريق ,تم العمل,2025-09-13 15:30:00,2025-09-13 17:00:00,Old Warehouse,1.5,Karim Magdy
+131,,2025-10-08,,Al-Huda Company,ايمن محمد كامل ,عمل لحام  تسريب للاحبار ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Karim Magdy
+132,,2025-10-08,,Administrative Affairs,ادم محمد  ,اعمال تركيب انتر لك ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Karim Magdy
+133,,2025-11-08,,GM Company,سامى سامى ,اعمال لحام لتجهيز  شبكة اطفاء تلقائى ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Deutsch,7.0,Ahmed Saad
+134,,2025-11-08,,Al-Karim Company,على شحات ,الزيارة الشهرية  على الانزار ,تم العمل,2025-09-13 11:00:00,2025-09-13 12:00:00,Printing Presses,1.0,Alaa Antar
+135,,2025-11-08,,Al-Karim Company,على شحات ,الزيارة الشهرية  على الانزار ,تم العمل,2025-09-13 15:30:00,2025-09-13 17:00:00,Old Warehouse,1.5,Karim Magdy
+136,,2025-11-08,,National Company,سيد على ,صيانة الكلارك ,تم العمل,2025-09-13 12:30:00,2025-09-13 16:00:00,Old Warehouse,3.5,Karim Magdy
+137,,2025-11-08,,Al-Huda Company,محسن عبد الباسط  ,لحام تنك  للاحبار ,تم العمل,2025-09-13 12:30:00,2025-09-13 17:00:00,Old Warehouse,4.5,Karim Magdy
+138,,2025-11-08,,Al-Karim Company,على شحات ,الزيارة الشهرية  على الانزار ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,New Warehouse,6.0,Mohamed Moussa
+139,,2025-11-08,,Administrative Affairs,علاء احمد ,صيانة تكيفات  غرفة السيرفر ,تم العمل,2025-09-13 12:00:00,2025-09-13 13:30:00,Faggala,1.5,Hany Lotfy
+140,,2025-12-08,,Al-Huda Company,اسلام مصطفى  ,صيانة ctp,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Printing Presses,3.0,Ahmed Saad
+141,,2025-12-08,,Al-Huda Company,محسن عبد الباسط  ,لحام تسريب  للاحبار ,تم العمل,2025-09-13 13:00:00,2025-09-13 17:00:00,Old Warehouse,4.0,Mahmoud AbdelTawab
+142,,2025-12-08,,Al-Farag Company,فرج محمد   ,فرج الفراشة ,تم العمل,2025-09-13 10:00:00,2025-09-13 12:00:00,Old Warehouse,2.0,Karim Magdy
+143,,2025-12-08,,Administrative Affairs,ادم محمد  ,اعمال تركيب انتر لك ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Karim Magdy
+144,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تنك  للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+145,,,,Al-Bakry Company,احمد محمد ,تركيبات ,تم العمل,2025-09-13 12:00:00,2025-09-13 18:00:00,Tower,6.0,Mohamed Abdel Aal
+146,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تنك  للاحبار ,تم العمل,2025-09-13 13:00:00,2025-09-13 17:00:00,Old Warehouse,4.0,Karim Magdy
+147,,,,Egyptian Company,امير حجازى ,تركيب خط الفايبر ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Printing Presses,7.0,Ali Salah
+148,,,,Al-Bakry Company,احمد محمد ,تركيبات ,تم العمل,2025-09-13 11:00:00,2025-09-13 18:00:00,Tower,7.0,Mohamed Abdel Aal
+149,,,,Orion Company,يحيى طه ,تركيبات ,تم العمل,2025-09-13 11:00:00,2025-09-13 18:00:00,Tower,7.0,Mohamed Abdel Aal
+150,,,,Egyptian Company,امير حجازى ,استكمال تركيب خط الفايبر ,تم العمل,2025-09-13 10:30:00,2025-09-13 17:00:00,Printing Presses,6.5,Ali Salah
+151,,,,Administrative Affairs,احمد سعيد  ,عمل صرف للتكيفات ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Printing Presses,3.0,Mahmoud AbdelTawab
+152,,,,Engineering Sector,صابر ابراهيم ,صيانة ابواب العنابر ,تم العمل,2025-09-13 11:00:00,2025-09-13 16:00:00,Printing Presses,5.0,Mahmoud Mostafa
+153,,,,Engineering Sector,محمود الدروى,صيانة تكييف ويب 11,تم العمل,2025-09-13 10:00:00,2025-09-13 15:00:00,Printing Presses,5.0,Ahmed Morsy
+154,,,,Administrative Affairs,محمد نقيب ,عمل صيانة كهرباء بالعنابر,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Printing Presses,6.0,Mahmoud AbdelTawab
+155,,,,Administrative Affairs,أحمد سعيد ,اعمال سباكة ,تم العمل,2025-09-13 14:00:00,2025-09-13 15:00:00,New Warehouse,0.999999999999999,Mohamed Moussa
+156,,,,Administrative Affairs,محمد نقيب , صيانة كهرباء ,تم العمل,2025-09-13 10:00:00,2025-09-13 11:00:00,New Warehouse,0.999999999999999,Mohamed Moussa
+157,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تسريب  تنك  للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+158,,,,Administrative Affairs,احمد سعيد  ,استكمال عمل صرف للتكيفات ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+159,,,,German Company,كامل جمعة     ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 12:00:00,2025-09-13 17:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
+160,,,,Engineering Sector,صابر ابراهيم      ,عمل تنده لخزان السولار  للماكينة الديزل,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,New Warehouse,6.0,Mahmoud AbdelTawab
+161,,,,German Company,كامل جمعة     ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 14:00:00,2025-09-13 15:00:00,New Warehouse,0.999999999999999,Mohamed Moussa
+162,,,,Engineering Sector,أحمد ابوزيد    ,لحام وقطع فى باب  طوارىء بجوار ويب 2,تم العمل,2025-09-13 15:30:00,2025-09-13 16:30:00,Printing Presses,0.999999999999999,Ahmed Morsy
+163,,,,Al-Farag Company,فرج محمد   ,فرج الفراشة ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Mahmoud AbdelTawab
+164,,,,Administrative Affairs,محمود عويس  ,صيانة الثلاجة ,تم العمل,2025-09-13 13:00:00,2025-09-13 15:00:00,New Warehouse,2.0,Mohamed Moussa
+165,,,,Office Max,مصطفى سليم  ,تركيبات ,تم العمل,2025-09-13 10:00:00,2025-09-13 20:00:00,Tower,10.0,Mohamed Abdel Aal
+166,,,,Globe Well Company,اسلام  مليجى ,تغيير فلتر ,تم العمل,2025-09-13 13:00:00,2025-09-13 15:00:00,New Warehouse,2.0,Mohamed Moussa
+167,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تسريب  تنك  للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+168,,,,Administrative Affairs,أحمد سعيد ,عمل صرف للتكيفات ,تم العمل,2025-09-13 11:00:00,2025-09-13 17:00:00,Old Warehouse,6.0,Mahmoud AbdelTawab
+169,,,,Egyptian Company,مصطغى  عماد , تركيب خط الفايبر  فى غرفة السيرفر,تم العمل,2025-09-13 12:00:00,2025-09-13 15:00:00,Printing Presses,3.0,Ahmed Saad
+170,,,,Administrative Affairs,أحمد سعيد ,عمل صرف للتكيفات ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Ahmed Morsy
+171,,,,Al-Huda Company,محسن عبد الباسط  ,صيانة تنكات الاحبار ,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Old Warehouse,2.0,Ahmed Morsy
+172,,,,Administrative Affairs,محمود الدروى,صيانة تكييف ,تم العمل,2025-09-13 13:00:00,2025-09-13 16:00:00,Old Warehouse,3.0,Ahmed Morsy
+173,,,,German Company,محمد ماهر    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 16:30:00,2025-09-13 17:30:00,Faggala,0.999999999999999,Hany Lotfy
+174,,,,Egyptian Company,سيد ممدوح  ,صيانة اجهزة التكييف فى المبنى الادارى  ,تم العمل,2025-09-13 13:30:00,2025-09-13 15:00:00,Faggala,1.5,Hany Lotfy
+175,,,,Egyptian Company,على الشحات  ,الزيارة الشهرية لشركة الكريم شبكة الانزار ,تم العمل,2025-09-13 13:30:00,2025-09-13 23:30:00,Faggala,10.0,Hany Lotfy
+176,,,,Office Max,مصطفى سليم  ,تركيبات ,تم العمل,2025-09-13 12:00:00,2025-09-13 18:00:00,Tower,6.0,Mohamed Abdel Aal
+177,,,,Orion Company,مصطفى سليم  ,تركيبات ,تم العمل,2025-09-13 15:00:00,2025-09-13 18:00:00,Tower,3.0,Mohamed Abdel Aal
+178,,,,Administrative Affairs,ياسر روبى  ,اعمال تركيب انتر لك ,تم العمل,2025-09-13 10:00:00,2025-09-13 16:00:00,New Warehouse,6.0,Mohamed Moussa
+179,,,,Al-Huda Company,ايمن محمد كامل   ,لحام تسريب  تنك  للاحبار ,تم العمل,2025-09-13 14:00:00,2025-09-13 17:00:00,Old Warehouse,3.0,Mahmoud AbdelTawab
+180,,,,Schlender Company,محمد عابد    ,صيانة الاسانسير  ,تم العمل,2025-09-13 11:00:00,2025-09-13 12:00:00,Printing Presses,1.0,Ahmed Saad
+181,,,,Al-Huda Company,اسلام مصطفى  ,صيانة ماكينة CTB,تم العمل,2025-09-13 13:00:00,2025-09-13 16:00:00,Printing Presses,3.0,Ahmed Saad
+182,,,,Orion Company,عبد الفتاح خضير  ,سقى بلاط المطبخ ,تم العمل,2025-09-13 17:30:00,2025-09-13 22:00:00,Printing Presses,4.5,Ali Salah
+183,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تسريب  تنك  للاحبار ,تم العمل,2025-09-13 10:00:00,2025-09-13 17:00:00,Old Warehouse,7.0,Mahmoud AbdelTawab
+184,,,,German Company,كامل  جمعة    ,الزيارة الشهرية لمكافحة القوارض والحشرات ,تم العمل,2025-09-13 15:00:00,2025-09-13 17:00:00,Printing Presses,2.0,Ahmed Saad
+185,,,,United Company,اجمد فتحى ,صيانة الاساسنسير ,تم العمل,2025-09-13 14:00:00,2025-09-13 14:30:00,Faggala,0.499999999999998,Hany Lotfy
+186,,,,Administrative Affairs,محمود عويس  ,صيانة تكييف ماكينة ATM ,تم العمل,2025-09-13 13:00:00,2025-09-13 15:00:00,Printing Presses,2.0,Ahmed Saad
+187,,,,Al-Huda Company,محسن عبد الباسط  ,لحام تسريب  تنك  للاحبار ,تم العمل,2025-09-13 16:00:00,2025-09-13 17:00:00,Old Warehouse,1.0,Mahmoud AbdelTawab
+188,,,,Alexandria Company,احمد حسين ,صيانة سقف عنبر 2,تم العمل,2025-09-13 11:00:00,2025-09-13 15:30:00,Deutsch,4.5,Mahmoud Mostafa
+189,,,,Administrative Affairs,محمود ابوشادي,دهان طرقة المسجد,تم العمل,2025-09-13 11:30:00,2025-09-13 16:00:00,Printing Presses,4.5,Ahmed Morsy
+190,,,,Al-Hady Company,محسن عبد الباسط  ,لحام تسريب  تانك الاحبار,تم العمل,2025-09-13 16:00:00,2025-09-13 21:00:00,Old Warehouse,5.0,Mahmoud AbdelTawab
